@@ -40,4 +40,12 @@ python app.py
 
 ## How it works
 
-This application uses Fernet symmetric encryption from the cryptography package. The password you provide is used to generate a key for encryption and decryption. 
+This application uses Fernet symmetric encryption from the cryptography package. The password you provide is used to generate a key for encryption and decryption.
+
+## License
+
+This application is released under the [MIT License](https://choosealicense.com/licenses/mit/).
+
+## Author
+
+This application was created by [Pierre Mvita](https://github.com/pmvita).
