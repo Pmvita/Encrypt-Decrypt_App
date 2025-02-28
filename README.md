@@ -42,6 +42,10 @@ python app.py
 
 This application uses Fernet symmetric encryption from the cryptography package. The password you provide is used to generate a key for encryption and decryption.
 
+## Screenshots
+
+![Screenshot 1](./screenshots/Screenshot.png)
+
 ## License
 
 This application is released under the [MIT License](https://choosealicense.com/licenses/mit/).
